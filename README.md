@@ -3,7 +3,9 @@ https://nyanonyan.github.io/Portfolio/
 
 ## Projects
 
-1) EDA and Forecasting on weekly petrol and diesel data in the UK
+### 1) EDA and Forecasting on weekly petrol and diesel data in the UK
+
+<img src="images/Petrol and Diesel pump price graph.JPG" width="750">
 
 - <a href="https://nbviewer.jupyter.org/github/NyanoNyan/Portfolio/blob/0a7e1f844063935711d4b42ad15889aa79282c88/1)%20EDA%20and%20Forecasting/Clean_EDA_weekly_road_fuel.ipynb">Exploratory Data Analysis (EDA) on weekly petrol and diesel data </a>
 
@@ -12,4 +14,3 @@ https://nyanonyan.github.io/Portfolio/
 - <a href="">LSTM forecasting **with Trend removal**</a>
 
 
-  <img src="images/Petrol and Diesel pump price graph.JPG" width="750">
