@@ -8,3 +8,5 @@ https://nyanonyan.github.io/Portfolio/
 <img src="images/Petrol and Diesel pump price graph.JPG" width="750">
 
 
+### <a href="https://nyanonyan.github.io/Gauss-Newton-Method-Algorithm/">2) Training Sunspot Data using Gauss-newton method (using the Hessian matrix)</a>
+
