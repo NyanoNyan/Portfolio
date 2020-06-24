@@ -1,3 +1,11 @@
+## Summary
+
+Graduate M.Sc in Computational Cognitive Neuroscience. Hoping to further my experience in data analysis and modelling.
+
+I enjoy working with data and figuring out the type of story a data might tell. In my spare time I like to learn more about time series, such as the use of statistical modelling or with the use of a neural network architecture in improving forecasting of demands or environmental data. 
+
+Currently I am learning more about NLP.
+
 ## Projects
 
 ### <a href="https://nyanonyan.github.io/-EDA-and-Forecasting-on-weekly-petrol-and-diesel-data/">1) EDA and Forecasting on weekly petrol and diesel data in the UK</a>
