@@ -19,3 +19,5 @@ Currently, I am learning in the area of NLP.
 
 
 ### <a href="https://nyanonyan.github.io/Data_Analysis_Dashboard/">3) Data_Analysis_Dashboard</a>
+
+<img src="/images/dashboard_pic.jpg" width="650">
