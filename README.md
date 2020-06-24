@@ -16,3 +16,6 @@ Currently, I am learning in the area of NLP.
 ### <a href="https://nyanonyan.github.io/Gauss-Newton-Method-Algorithm/">2) Training Sunspot Data using Gauss-newton method (using the Hessian matrix)</a>
 
 <img src="images/Final_results.jpg" width="650">
+
+
+### <a href="https://nyanonyan.github.io/Data_Analysis_Dashboard/">3) Data_Analysis_Dashboard</a>
