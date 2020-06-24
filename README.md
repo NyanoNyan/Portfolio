@@ -1,7 +1,5 @@
 ## Projects Portfolio
 
- <a href="https://nyanonyan.github.io/Portfolio//">https://nyanonyan.github.io/Portfolio/</a>
-
 ## Projects
 
 ### <a href="https://nyanonyan.github.io/-EDA-and-Forecasting-on-weekly-petrol-and-diesel-data/">1) EDA and Forecasting on weekly petrol and diesel data in the UK</a>
