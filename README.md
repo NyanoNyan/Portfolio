@@ -12,13 +12,16 @@ Currently, I am learning in the area of NLP.
 
 <img src="images/Petrol and Diesel pump price graph.JPG" width="650">
 
+### <a href="https://nyanonyan.github.io/Hotel_reviews_sentiment_analysis/">2) Hotel reviews prediction using Sentiment Analysis</a>
 
-### <a href="https://nyanonyan.github.io/Gauss-Newton-Method-Algorithm/">2) Training Sunspot Data using Gauss-newton method (using the Hessian matrix)</a>
+<img src="images/video_demo.gif" width="550">
+
+### <a href="https://nyanonyan.github.io/Gauss-Newton-Method-Algorithm/">3) Training Sunspot Data using Gauss-newton method (using the Hessian matrix)</a>
 
 <img src="images/Final_results.jpg" width="650">
 
 
-### <a href="https://nyanonyan.github.io/Data_Analysis_Dashboard/">3) Data_Analysis_Dashboard</a>
+### <a href="https://nyanonyan.github.io/Data_Analysis_Dashboard/">4) Data_Analysis_Dashboard</a>
 
 
 <img src="images/dashboard_pic.jpg" width="650">
