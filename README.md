@@ -14,7 +14,7 @@ Currently, I am learning in the area of NLP.
 
 ### <a href="https://nyanonyan.github.io/Hotel_reviews_sentiment_analysis/">2) Hotel reviews prediction using Sentiment Analysis</a>
 
-<img src="images/video_demo.gif" width="550">
+<img src="images/video_demo.gif" width="400">
 
 ### <a href="https://nyanonyan.github.io/Gauss-Newton-Method-Algorithm/">3) Training Sunspot Data using Gauss-newton method (using the Hessian matrix)</a>
 
